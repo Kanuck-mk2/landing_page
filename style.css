@@ -98,3 +98,13 @@ h1 {
 
 /*content*/
 
+.content {
+    align-items: center;
+}
+
+.content-info {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
